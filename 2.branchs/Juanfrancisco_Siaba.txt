@@ -1,0 +1,30 @@
+1- Una branch es una copia del codigo de un proyecto que se puede usar hacer correcciones sin cambiar la version principal del proyecto.
+
+2- Porque se puede trabajar en distintas correcciones sin afectar el codigo principal.
+
+3- Usando git branch seguido del nombre de la rama
+
+4- Se usa git checkout seguido del nombre de la branch
+
+5- se usa git branch -d seguido del nombre de la branch
+
+6- Se usa git branch -b seguido del nombre de la branch
+
+7- Es combinar dos o mas ramas de desarrollo en una sola.
+
+8- Se usa git merge seguido del nombre de la branch que se desea fusionar con la branch actual
+
+9- Una etiqueta que se utiliza para marcar una cierta version del codigo en el proyecto
+
+10- se usa git tag seguido del nombre del tag y el commit que se desea etiquetar
+
+
+Parte practica:
+6. Observo todos los cambios en los branches. Muestra quienes hicieron los commits, que modificaron y cuando.
+10. Veo los cambios en los branches y el nuevo branch llamado "anana".
+15. Observo que los cambios que se hicieron en el branch anana ahora estan en el branch experimento_master.
+18. Observo todos los cambio hecho en los branches que fueron merged.
+19. Git lo hizo automaticamente porque no hubo ningun conflicto que necesite que lo tenga que hacer manual.
+20. anana y main estan merged.
+23. Ninguna.
+24. Los branches que fueron eliminados ya no estan en la data que muestra el comando git graph.
