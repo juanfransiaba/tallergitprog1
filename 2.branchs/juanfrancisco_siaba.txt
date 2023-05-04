@@ -1,4 +1,4 @@
-2.1.1 ¿Qué es un branch?
+ 2.1.1 ¿Qué es un branch?
 
 Un branch en Git es como una copia separada de un proyecto en el que se esta trabajando, que permite hacer cambios y experimentar sin afectar la versión principal del proyecto. Es una versión de un trabajo guardada que aunque después lo cambies al proyecto, podes volver a ese punto en el que estaba.
 2.1.2 ¿Por qué pueden ser útiles los branches?
